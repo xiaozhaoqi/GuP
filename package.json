@@ -4,7 +4,7 @@
   "description": "Focus on stocks when programming",
   "publisher": "xiaozhaoqi",
   "repository": "https://github.com/xiaozhaoqi/GuP",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "engines": {
     "vscode": "^1.0.0"
   },

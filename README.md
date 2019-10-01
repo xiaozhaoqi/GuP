@@ -6,8 +6,10 @@ You need add
 "gup.interval": "60000"  
 ```
 in VS Code setting.json.  
-And Editor Status Bar will show the number of your config.
-The number will refresh every 60000ms.
+
+And Editor Status Bar will show current stocks' price with your gup.codes, just like:  
+![图例](./example.png)  
+The price will refresh every 60000ms.  
 
 ## Change Log
 v0.0.1: support single code query.  
